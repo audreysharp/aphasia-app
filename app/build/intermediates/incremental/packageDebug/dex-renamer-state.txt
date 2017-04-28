@@ -1,0 +1,7 @@
+#Fri Apr 07 15:58:05 EDT 2017
+base.0=/Users/Audrey/Dropbox/computer-science/AndroidStudio/GridView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_deebf06f3320ac5c3257795c997f26923898ce00
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/Audrey/Dropbox/computer-science/AndroidStudio/GridView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9d11d60a2c240b70ce8f85cc702c0457ddb69840/classes.dex
+base.1=/Users/Audrey/Dropbox/computer-science/AndroidStudio/GridView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9d11d60a2c240b70ce8f85cc702c0457ddb69840
+file.0=/Users/Audrey/Dropbox/computer-science/AndroidStudio/GridView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_deebf06f3320ac5c3257795c997f26923898ce00/classes.dex

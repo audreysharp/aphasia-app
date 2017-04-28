@@ -1,0 +1,81 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Audrey/Dropbox/computer-science/AndroidStudio/GridView/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/Audrey/Dropbox/computer-science/AndroidStudio/GridView/app/src/main/AndroidManifest.xml:3:5-42
+		INJECTED from /Users/Audrey/Dropbox/computer-science/AndroidStudio/GridView/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Audrey/Dropbox/computer-science/AndroidStudio/GridView/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Audrey/Dropbox/computer-science/AndroidStudio/GridView/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Audrey/Dropbox/computer-science/AndroidStudio/GridView/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Audrey/Dropbox/computer-science/AndroidStudio/GridView/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/Audrey/Dropbox/computer-science/AndroidStudio/GridView/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Audrey/Dropbox/computer-science/AndroidStudio/GridView/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.MANAGE_DOCUMENTS
+ADDED from /Users/Audrey/Dropbox/computer-science/AndroidStudio/GridView/app/src/main/AndroidManifest.xml:5:5-75
+	android:name
+		ADDED from /Users/Audrey/Dropbox/computer-science/AndroidStudio/GridView/app/src/main/AndroidManifest.xml:5:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/Audrey/Dropbox/computer-science/AndroidStudio/GridView/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /Users/Audrey/Dropbox/computer-science/AndroidStudio/GridView/app/src/main/AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/Audrey/Dropbox/computer-science/AndroidStudio/GridView/app/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /Users/Audrey/Dropbox/computer-science/AndroidStudio/GridView/app/src/main/AndroidManifest.xml:7:22-78
+application
+ADDED from /Users/Audrey/Dropbox/computer-science/AndroidStudio/GridView/app/src/main/AndroidManifest.xml:9:5-22:19
+MERGED from [com.android.support:appcompat-v7:25.1.1] /Users/Audrey/.android/build-cache/ee1accce9e4413fad40dc8739f8079a9353b5eeb/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.1] /Users/Audrey/.android/build-cache/d643d69b3445af76bcab3d288041a13c13112209/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] /Users/Audrey/.android/build-cache/c259c203a709f0b4c3052df5a3d3329604202b9a/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] /Users/Audrey/.android/build-cache/e8b2bf3719bf1b514d22049a843343caa124a915/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] /Users/Audrey/.android/build-cache/c91bb3b6a0ab3dc667456874daa0fa5a72d66870/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] /Users/Audrey/.android/build-cache/5d2ea2323433d37b80dc018db03ff22ea9e5678c/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] /Users/Audrey/.android/build-cache/da3d954bd4722b67fc27cb9be7f150d09db9b442/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] /Users/Audrey/.android/build-cache/d855216eb58ef01a848720938640ebf68a56c42c/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.1.1] /Users/Audrey/.android/build-cache/3fb15e065af11f6a407ec2e024b89fd5bb754766/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /Users/Audrey/Dropbox/computer-science/AndroidStudio/GridView/app/src/main/AndroidManifest.xml:12:9-41
+	android:supportsRtl
+		ADDED from /Users/Audrey/Dropbox/computer-science/AndroidStudio/GridView/app/src/main/AndroidManifest.xml:13:9-35
+	android:allowBackup
+		ADDED from /Users/Audrey/Dropbox/computer-science/AndroidStudio/GridView/app/src/main/AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from /Users/Audrey/Dropbox/computer-science/AndroidStudio/GridView/app/src/main/AndroidManifest.xml:11:9-43
+	android:theme
+		ADDED from /Users/Audrey/Dropbox/computer-science/AndroidStudio/GridView/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.example.audrey.gridview.MainActivity
+ADDED from /Users/Audrey/Dropbox/computer-science/AndroidStudio/GridView/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /Users/Audrey/Dropbox/computer-science/AndroidStudio/GridView/app/src/main/AndroidManifest.xml:15:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/Audrey/Dropbox/computer-science/AndroidStudio/GridView/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /Users/Audrey/Dropbox/computer-science/AndroidStudio/GridView/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /Users/Audrey/Dropbox/computer-science/AndroidStudio/GridView/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Audrey/Dropbox/computer-science/AndroidStudio/GridView/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /Users/Audrey/Dropbox/computer-science/AndroidStudio/GridView/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /Users/Audrey/Dropbox/computer-science/AndroidStudio/GridView/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.1.1] /Users/Audrey/.android/build-cache/ee1accce9e4413fad40dc8739f8079a9353b5eeb/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.1.1] /Users/Audrey/.android/build-cache/d643d69b3445af76bcab3d288041a13c13112209/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] /Users/Audrey/.android/build-cache/c259c203a709f0b4c3052df5a3d3329604202b9a/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] /Users/Audrey/.android/build-cache/e8b2bf3719bf1b514d22049a843343caa124a915/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.1] /Users/Audrey/.android/build-cache/c91bb3b6a0ab3dc667456874daa0fa5a72d66870/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.1] /Users/Audrey/.android/build-cache/5d2ea2323433d37b80dc018db03ff22ea9e5678c/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] /Users/Audrey/.android/build-cache/da3d954bd4722b67fc27cb9be7f150d09db9b442/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] /Users/Audrey/.android/build-cache/d855216eb58ef01a848720938640ebf68a56c42c/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.1.1] /Users/Audrey/.android/build-cache/3fb15e065af11f6a407ec2e024b89fd5bb754766/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.1] /Users/Audrey/.android/build-cache/ee1accce9e4413fad40dc8739f8079a9353b5eeb/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/Audrey/Dropbox/computer-science/AndroidStudio/GridView/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Audrey/Dropbox/computer-science/AndroidStudio/GridView/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Audrey/Dropbox/computer-science/AndroidStudio/GridView/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Audrey/Dropbox/computer-science/AndroidStudio/GridView/app/src/main/AndroidManifest.xml

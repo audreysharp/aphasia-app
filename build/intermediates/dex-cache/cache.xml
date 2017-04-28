@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Audrey/Dropbox/computer-science/AndroidStudio/GridView/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f34fdace6f2986bd6c29e2ab3d4bd503a0404517">
+        <dex dex="/Users/Audrey/Dropbox/computer-science/AndroidStudio/GridView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_9d11d60a2c240b70ce8f85cc702c0457ddb69840/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Audrey/Dropbox/computer-science/AndroidStudio/GridView/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/Audrey/Dropbox/computer-science/AndroidStudio/GridView/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_deebf06f3320ac5c3257795c997f26923898ce00/classes.dex" />
+    </item>
+
+</items>
